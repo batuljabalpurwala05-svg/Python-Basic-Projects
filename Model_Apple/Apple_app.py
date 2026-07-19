@@ -76,6 +76,7 @@ if (st.button("Predict")):
         "Model":[apple_model],
         "Condition":[con],
         "Stock_Status":[stock]
+        
     })
 
     # Encode
